@@ -216,4 +216,18 @@ These are distinct but related constructs.
 
 --
 
-## 
+## ADR-0012
+
+Title
+
+The Design System distinguishes Concepts, Components and Presentation.
+
+Decision
+
+Each reusable element is represented in three complementary forms:
+
+Concept (semantic definition)
+Component (structural definition)
+Presentation (visual representation)
+
+These representations shall remain independent while describing the same underlying element.

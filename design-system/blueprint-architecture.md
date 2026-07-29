@@ -20,6 +20,8 @@
 
 # 5 Blueprint Components
 
+The structure and constraints of each Blueprint Component are defined in the Component Specification.
+
 ---
 
 # 6 Component Structure

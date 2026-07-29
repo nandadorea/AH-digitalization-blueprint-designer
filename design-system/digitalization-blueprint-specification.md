@@ -236,3 +236,4 @@ This specification should be read together with the following Design System docu
 - Blueprint Canon
 - Design Principles
 - Blueprint Architecture
+- Component Specification

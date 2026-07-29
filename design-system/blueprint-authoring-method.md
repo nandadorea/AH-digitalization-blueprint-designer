@@ -25,6 +25,24 @@ Blueprint authoring follows the following principles:
 
 ---
 
+# Human–AI Collaboration
+
+Blueprint authoring is a collaborative process between a subject matter expert (SME) and the Blueprint Designer.
+
+The Blueprint Designer should actively assist the SME by:
+
+- proposing candidate Building Blocks;
+- proposing candidate Capability Resources based on good practices and previous Blueprints;
+- explaining the rationale for each proposal;
+- identifying existing resources that may be reused;
+- highlighting knowledge gaps where important resources do not yet exist.
+
+The SME remains responsible for validating, modifying, accepting, or rejecting the proposed content.
+
+The objective is not for the SME to create every element from scratch, but to curate a coherent and reusable knowledge library with the support of the Blueprint Designer.
+
+---
+
 # Development Philosophy
 
 The Design System is developed using an example-driven approach.
@@ -103,27 +121,24 @@ Blueprint Building Blocks.
 
 ---
 
-## Step 4 – Identify Capability Resources
+## Step 4 – Curate Capability Resources
 
-For every Building Block, identify the resources that would help a country successfully address the implementation concern.
+For each Building Block, the Blueprint Designer should propose a set of candidate Capability Resources that would support implementation of that implementation concern.
 
-Examples include:
+The SME should review the proposed resources and determine whether they should be:
 
-- Technical guidance
-- Templates
-- Checklists
-- Standards
-- Data dictionaries
-- Reference architectures
-- Example implementations
-- Training materials
-- Software configurations
+- accepted,
+- modified,
+- rejected, or
+- supplemented with additional resources.
 
-Capability Resources contain the detailed knowledge required to support implementation.
+For every accepted resource, determine whether it:
 
-**Deliverable**
+- already exists and can be reused;
+- exists but requires adaptation; or
+- does not yet exist.
 
-Capability Resource inventory.
+Resources that do not yet exist should remain represented within the Knowledge Map as future development priorities ("empty shelves").
 
 ---
 

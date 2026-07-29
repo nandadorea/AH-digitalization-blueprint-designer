@@ -166,3 +166,8 @@ We realized Building Blocks are navigational.
 The knowledge resides in reusable Capability Resources.
 The Blueprint's innovation is organizing those resources into a coherent design journey.
 
+---
+
+## Design Journal Entry 009
+
+SMEs found it easier to evaluate proposed Capability Resources than to generate them from scratch. Consequently, the Blueprint Designer should proactively propose candidate resources based on previous Blueprints and domain knowledge, with the SME acting as curator rather than creator.

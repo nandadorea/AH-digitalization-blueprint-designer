@@ -141,4 +141,25 @@ Relationships between capabilities are documented through references rather than
 
 --
 
+## ADR-0008
 
+Title
+
+Normative concepts shall be defined exactly once.
+
+Decision
+
+Each normative concept shall have a single authoritative definition contained within the Blueprint Canon.
+
+Other documents may reference, but shall not redefine, those concepts.
+
+Rationale
+
+Single-source definitions:
+
+reduce ambiguity;
+improve maintainability;
+simplify AI interpretation;
+prevent conflicting terminology.
+
+--

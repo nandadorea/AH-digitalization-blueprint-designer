@@ -34,6 +34,12 @@ The Design System aims to:
 /design-system/
 Methodology specification.
 
+├── Digitalization Blueprint Specification
+│        │
+│        ├── Blueprint Canon
+│        ├── Design Principles
+│        └── Blueprint Architecture
+
 ---
 
 /templates/

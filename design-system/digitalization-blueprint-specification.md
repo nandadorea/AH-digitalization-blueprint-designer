@@ -122,15 +122,21 @@ Supporting Concepts assist implementation but do not constitute surveillance cap
 
 ---
 
-# 6 Normative Definitions
+# 6 Blueprint Canon
 
-*(To be completed in subsequent sections.)*
+The Blueprint Canon is the authoritative source of normative definitions for all concepts used throughout the Design System.
 
-This section provides the formal definitions of every concept used throughout the Design System.
+The Canon defines the meaning of every concept exactly once.
+
+Normative documents shall reference the Blueprint Canon rather than redefining concepts.
+
+The Blueprint Canon is maintained as a separate document to ensure consistency across the Design System and to support both human interpretation and machine-based processing.
 
 ---
 
 # 7 Normative Requirements
+
+The normative requirements defined in this section apply to the concepts defined in the Blueprint Canon.
 
 Normative requirements are identified using persistent identifiers.
 
@@ -178,6 +184,8 @@ Supporting Resources shall be classified according to the resource taxonomy defi
 
 # 8 Relationships
 
+The relationships defined in this section describe how the concepts defined in the Blueprint Canon interact within the Design System.
+
 The Design System defines relationships between concepts.
 
 These relationships establish the grammar of the Design System.
@@ -214,6 +222,16 @@ Conformance to this specification does not require the use of any particular sof
 
 This specification evolves through versioned releases of the Design System.
 
-Changes affecting normative concepts or requirements shall be documented through an Architecture Decision Record (ADR).
+Changes affecting concepts defined in the Blueprint Canon or normative requirements defined in this specification shall be documented through an Architecture Decision Record (ADR)..
 
 Breaking changes shall be reflected through semantic versioning.
+
+--
+
+# Related Documents
+
+This specification should be read together with the following Design System documents:
+
+- Blueprint Canon
+- Design Principles
+- Blueprint Architecture

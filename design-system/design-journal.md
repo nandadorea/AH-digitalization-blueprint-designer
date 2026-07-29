@@ -154,3 +154,15 @@ A Blueprint is not an implementation manual or software specification; it is a s
 Building Blocks represent implementation concerns, not workflow steps or software components.
 Each Building Block is explored through a structured design conversation.
 Every Building Block should ultimately be supported by decision-support resources (datasets, templates, standards, examples, reference models, interoperability guidance, etc.) and, where appropriate, implementation assets.
+
+---
+
+## Design Journal Entry 008 – The Blueprint as a Map Through a Knowledge Base
+
+Capture the narrative:
+
+We initially assumed Building Blocks would contain the knowledge.
+We realized Building Blocks are navigational.
+The knowledge resides in reusable Capability Resources.
+The Blueprint's innovation is organizing those resources into a coherent design journey.
+

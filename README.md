@@ -16,6 +16,10 @@ The methodology is intentionally designed to be both human-readable and machine-
 
 The Design System is being developed using an Example-Driven Design approach. Normative concepts are refined through worked example Blueprints before being incorporated into the Design System. This ensures that specifications are grounded in practical implementation rather than theoretical design.
 
+Veterinary Services have access to a growing number of standards, technical guidelines, templates and digital tools. However, these resources are often developed independently and provide limited guidance on when, why and how they should be used together during digital transformation.
+
+Digitalization Blueprints organize these resources into structured design journeys centred on business capabilities, helping countries make informed implementation decisions while adapting solutions to their own context.
+
 ---
 
 ## Purpose: decision-support framework for digital transformation

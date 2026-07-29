@@ -16,6 +16,13 @@ The methodology is intentionally designed to be both human-readable and machine-
 
 The Design System is being developed using an Example-Driven Design approach. Normative concepts are refined through worked example Blueprints before being incorporated into the Design System. This ensures that specifications are grounded in practical implementation rather than theoretical design.
 
+---
+
+## Purpose: decision-support framework for digital transformation
+
+The Animal Health Digitalization Blueprint Designer is a design system for creating Digitalization Blueprints. Rather than prescribing software implementations or organizational workflows, it provides a decision-support framework that guides Veterinary Services through the design of digital capabilities adapted to their own context.
+
+Blueprints are structured design guides that facilitate informed implementation decisions. They focus on business capabilities rather than specific technologies, workflows or organizational models, and are supported by reusable decision-support resources and implementation assets.
 
 ---
 

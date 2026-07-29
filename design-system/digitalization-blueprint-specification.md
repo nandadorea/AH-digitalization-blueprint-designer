@@ -52,6 +52,8 @@ This specification does not prescribe:
 - information technology architectures; or
 - which surveillance capabilities require a Blueprint.
 
+Digitalization Blueprint is a structured design guide that supports Veterinary Services in designing digital capabilities. Blueprints facilitate informed implementation decisions while allowing adaptation to different organizational, operational and technological contexts. They are not software specifications, implementation manuals or workflow descriptions.
+
 ---
 
 # 3 Design Philosophy

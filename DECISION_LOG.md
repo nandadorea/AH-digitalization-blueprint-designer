@@ -231,3 +231,28 @@ Component (structural definition)
 Presentation (visual representation)
 
 These representations shall remain independent while describing the same underlying element.
+
+--
+
+## ADR-0013: Components are presentation-independent.
+
+Components define information. Cards, tables, diagrams, and other visualizations are renderings of that information. A Design System may provide multiple presentations for the same Component without altering its semantics.
+
+--
+
+##ADR-0015
+
+Title
+
+Building Blocks represent reusable implementation elements.
+
+Decision
+
+Building Blocks are reusable implementation elements that describe what Veterinary Services need to establish, configure, perform, or maintain to digitalize a surveillance workflow.
+
+Building Blocks do not represent workflow steps, business processes, software modules, or implementation phases.
+
+Rationale
+
+This definition preserves technology independence, avoids implying sequence, and promotes reuse across multiple Blueprints.
+

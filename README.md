@@ -14,6 +14,9 @@ The Design System serves three complementary audiences:
 
 The methodology is intentionally designed to be both human-readable and machine-readable, enabling reproducible development of technical guidance and future AI-assisted authoring.
 
+The Design System is being developed using an Example-Driven Design approach. Normative concepts are refined through worked example Blueprints before being incorporated into the Design System. This ensures that specifications are grounded in practical implementation rather than theoretical design.
+
+
 ---
 
 ## Objectives

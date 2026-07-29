@@ -163,3 +163,57 @@ simplify AI interpretation;
 prevent conflicting terminology.
 
 --
+
+## ADR-0009
+
+Title
+
+Blueprints are composed of Components.
+
+Decision
+
+A Digitalization Blueprint is composed of Blueprint Components rather than directly of Building Blocks.
+
+Building Blocks are one Component type within the Blueprint Architecture.
+
+Rationale
+
+Separating Components from Concepts creates a stable metamodel and allows future extension without changing the Design System.
+
+--
+
+## ADR-0010
+
+Title
+
+The Design System separates Semantics, Structure and Presentation.
+
+Decision
+
+The Design System is organized into three complementary layers:
+
+Semantic Layer
+Structural Layer
+Presentation Layer
+
+Each layer shall evolve independently while maintaining compatibility with the others.
+
+--
+
+## ADR-0011
+
+Title
+
+Building Blocks remain semantic concepts.
+
+Decision
+
+The Blueprint Canon defines Building Blocks as concepts.
+
+The Blueprint Architecture defines Building Block Components.
+
+These are distinct but related constructs.
+
+--
+
+## 

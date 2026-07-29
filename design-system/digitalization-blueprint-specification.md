@@ -184,7 +184,8 @@ Supporting Resources shall be classified according to the resource taxonomy defi
 
 # 8 Relationships
 
-The relationships defined in this section describe how the concepts defined in the Blueprint Canon interact within the Design System.
+The relationships defined in this specification describe the semantic relationships between concepts. The structural organization of those concepts into Blueprint Components is defined in the Blueprint Architecture.
+(The objectve is to separate semantics from structure).
 
 The Design System defines relationships between concepts.
 

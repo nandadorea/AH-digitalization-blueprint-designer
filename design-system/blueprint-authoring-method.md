@@ -140,6 +140,10 @@ For every accepted resource, determine whether it:
 
 Resources that do not yet exist should remain represented within the Knowledge Map as future development priorities ("empty shelves").
 
+When proposing Capability Resources, the Blueprint Designer should consider whether the Building Block would benefit from one or more resources in each Resource Type.
+
+Not every Building Block requires every Resource Type, but considering each category helps ensure a balanced and reusable knowledge package.
+
 ---
 
 ## Step 5 – Assess Resource Maturity

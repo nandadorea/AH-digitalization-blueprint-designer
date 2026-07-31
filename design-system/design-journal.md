@@ -171,3 +171,21 @@ The Blueprint's innovation is organizing those resources into a coherent design 
 ## Design Journal Entry 009
 
 SMEs found it easier to evaluate proposed Capability Resources than to generate them from scratch. Consequently, the Blueprint Designer should proactively propose candidate resources based on previous Blueprints and domain knowledge, with the SME acting as curator rather than creator.
+
+---
+
+# Validated design decisions
+
+VDD-001: Building Blocks organize implementation concerns rather than workflows.
+
+VDD-002: Capability Resources are curated knowledge assets linked to Building Blocks.
+
+VDD-003: The Blueprint Designer proposes candidate resources; the SME curates them.
+
+VDD-004: Missing resources are retained as "empty shelves" in the Knowledge Map and become part of the future knowledge development roadmap.
+
+VDD-005: Resource Types - Capability Resources should be classified by the function they perform for the implementer rather than by their file format. Current validated Resource Types are Guidance, Template, Worked Example, and Reference Artefact. The Blueprint Designer should consider each Resource Type when proposing resources for a Building Block, while recognizing that not every Building Block requires every type.
+
+VDD-006: Resource Cohesion - Each Capability Resource should have a single, well-defined purpose. If a proposed resource addresses multiple distinct knowledge needs, it should be decomposed into separate Capability Resources. The Blueprint Designer should actively challenge overly broad resources and help the SME identify a more modular organization.
+
+---

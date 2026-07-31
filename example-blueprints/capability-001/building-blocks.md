@@ -38,15 +38,12 @@ Countries need to determine what information is required to support the business
 
 ## Candidate Capability Resources
 
-| Resource | Status | Notes |
-|----------|--------|-------|
-| Principles for defining information requirements | Candidate | |
-| Information Requirements Template | Candidate | |
-| Information Dictionary Template | Candidate | |
-| Example minimum information set | Candidate | |
-| Controlled vocabulary guidance | Candidate | |
-| Existing international standards | Candidate | |
-| Example completed information catalogue | Candidate | |
+Resource	Type	Status
+Principles for Defining Information Requirements	Guidance	🔴 Empty Shelf
+Information Requirements Template	Template	🔴 Empty Shelf
+Information Dictionary Template	Template	🟡 Adapt
+Example Information Dictionary	Worked Example	🟡 Adapt
+Example Minimum Information Set	Worked Example	🟡 Adapt
 
 ## Decisions
 
